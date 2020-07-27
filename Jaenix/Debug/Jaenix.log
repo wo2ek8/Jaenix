@@ -1,3 +1,4 @@
-﻿  prob720.c
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob720.c(7,7): warning C4013: 'prob3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  prob728.c
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob728.c(12,7): warning C4013: 'prob3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob728.c(115,25): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
   Jaenix.vcxproj -> C:\Users\wo2ek\source\repos\Jaenix\Debug\Jaenix.exe

@@ -1,14 +1,14 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void) {
+int main() {
 	prob1();
 	//prob2();
 
 	return 0;
 }
 
-int prob1(void) {
+int prob1() {
 	int i = 3;
 	int j = 4;
 	float value = (float)3 / 4;
@@ -50,7 +50,7 @@ int prob1(void) {
 	return 0;
 }
 
-int prob2(void) {
+int prob2() {
 	int a;
 	int b;
 	int temp = 0;

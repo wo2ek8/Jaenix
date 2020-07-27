@@ -66,24 +66,33 @@ int prob2() {
 
 	//printf("%d\n", input);
 
-	for (int j = 0; j < 8; j++) { //8번 옮김
-		for (int i = 7; i >= 0; i--) { //2진수로 출력
+	//for (int j = 0; j < 8; j++) { //8번 옮김
+	//	for (int i = 7; i >= 0; i--) { //2진수로 출력
+	//		printf("%d", input >> i & 1);
+	//	}
+
+	//	lastBit = input >> 0 & 1; //마지막 비트 저장
+
+	//	printf("\n"); //줄 바꿈
+
+	//	input = input >> 1; //오른쪽 로테이션
+
+	//	if (lastBit == 1) { //마지막 비트 1이면
+	//		//printf("lastBit : %d\n", lastBit);
+	//		input = input | 0x80; //맨 왼쪽 비트 1로 바꿈
+	//	}
+	//	else {
+	//		input = input & 0x7f; //아니면 0으로 바꿈
+	//	}
+	//}
+
+	for (int j = 0; j < 8; j++) {
+		for (int i = 7; i >= 0; i--) {
 			printf("%d", input >> i & 1);
 		}
-
-		lastBit = input >> 0 & 1; //마지막 비트 저장
-
-		printf("\n"); //줄 바꿈
-
-		input = input >> 1; //오른쪽 로테이션
-
-		if (lastBit == 1) { //마지막 비트 1이면
-			//printf("lastBit : %d\n", lastBit);
-			input = input | 0x80; //맨 왼쪽 비트 1로 바꿈
-		}
-		else {
-			input = input & 0x7f; //아니면 0으로 바꿈
-		}
+		printf("\n");
+		lastBit = (input & 1) << 7;
+		input = (input >> 1) | lastBit;
 	}
 
 	/*for (int i = 7; i >= 0; i--) {
