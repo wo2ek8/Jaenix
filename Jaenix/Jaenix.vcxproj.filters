@@ -27,5 +27,11 @@
     <ClCompile Include="hyub728.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prob81.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prob82.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
