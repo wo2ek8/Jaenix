@@ -33,5 +33,8 @@
     <ClCompile Include="prob82.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prob0803.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

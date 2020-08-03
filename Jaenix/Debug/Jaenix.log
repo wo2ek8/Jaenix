@@ -1,14 +1,9 @@
-﻿  prob81.c
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(5,7): warning C4013: 'prob1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(23,26): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(34,33): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(20,7): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(53,30): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(50,6): warning C4101: 'intArr' :참조되지 않은 지역 변수입니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(81,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(105,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(137,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(182,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(233,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob81.c(239,25): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+﻿  prob0803.c
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob0803.c(10,8): warning C4013: 'prob32'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob0803.c(20,34): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob0803.c(66,36): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob0803.c(81,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob0803.c(93,46): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob0803.c(115,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob0803.c(144,26): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
   Jaenix.vcxproj -> C:\Users\wo2ek\source\repos\Jaenix\Debug\Jaenix.exe
