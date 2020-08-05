@@ -5,7 +5,9 @@
 int main() {
 	//exam1();
 	//exam2();
-	exam3();
+	//exam3();
+
+	prob1();
 
 	return 0;
 }
@@ -77,6 +79,32 @@ int exam3() {
 
 	fclose(source);
 	fclose(destin);
+
+	return 0;
+}
+
+int prob1() {
+	int c;
+	FILE* fp;
+	char fileName[100];
+
+	printf("ют╥б : ");
+	scanf("%s", fileName);
+	fp = fopen(fileName, "r");
+	if (fp == NULL) {
+		puts("File not found!!");
+		exit(1);
+	}
+	int i = 0;
+	while ((c = fgetc(fp)) != EOF) {
+		printf("%x ", c);
+		i++;
+		if (i % 20 == 0) {
+			printf("\n");
+		}
+	}
+
+	fclose(fp);
 
 	return 0;
 }
