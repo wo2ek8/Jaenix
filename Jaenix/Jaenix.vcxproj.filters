@@ -42,5 +42,8 @@
     <ClCompile Include="prob86.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prob87.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

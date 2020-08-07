@@ -1,1 +1,5 @@
 C Language 지한아 안녕 지한아 공부해 지한아 민병아 지한아
+hi
+hello
+nice to meet you
+bye
