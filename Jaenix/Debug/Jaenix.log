@@ -1,3 +1,5 @@
-﻿  prob87.c
-C:\Users\wo2ek\source\repos\Jaenix\Jaenix\prob87.c(9,7): warning C4013: 'exam3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  review811.c
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\review811.c(15,8): warning C4013: 'exam10'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\review811.c(40,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\wo2ek\source\repos\Jaenix\Jaenix\review811.c(207,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Jaenix.vcxproj -> C:\Users\wo2ek\source\repos\Jaenix\Debug\Jaenix.exe

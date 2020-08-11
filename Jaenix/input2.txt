@@ -1,6 +1,0 @@
-1 : hi
-2 : hello
-3 : nice
-4 : to
-5 : meet
-6 : you
