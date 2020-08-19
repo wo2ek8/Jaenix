@@ -1,0 +1,20 @@
+start
+
+  var var1
+  var var2
+
+  in var1
+  mov var2 10
+  add var1 var2
+  out var1
+
+  sub var1 5
+  out var1
+
+  mul var1 3
+  out var1
+
+  div var1 2
+  out var1
+
+End

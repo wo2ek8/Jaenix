@@ -51,5 +51,14 @@
     <ClCompile Include="review812.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="compiler.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="final.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
